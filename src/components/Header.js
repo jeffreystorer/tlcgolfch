@@ -11,7 +11,7 @@ return(
       TLC Golf<br></br>
       Course Handicaps<br></br>
       and<br></br>
-      Target Score
+      Target Scores
     </div>
   </>
 )}
