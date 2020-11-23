@@ -8,10 +8,13 @@ return(
     <div
       className='header'
     >
-      TLC Golf<br></br>
+      TLC Golf
+    </div>
+    <div className='center'>
+      <h3>
       Course Handicaps<br></br>
       and<br></br>
-      Target Scores
+      Target Scores</h3>
     </div>
   </>
 )}
