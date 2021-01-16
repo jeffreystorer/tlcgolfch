@@ -32,7 +32,7 @@ function LoginPage() {
   }, [lastName])
 
   function handleClick(e) {
-    set("dataMode", "roster")
+    set("dataMode", "ghin")
     set("ghinNumber", ghinNumber)
     set("lastName", lastName)
     setIsLoggedIn(ghinNumber, lastName)
